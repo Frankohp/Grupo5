@@ -10,6 +10,6 @@ def main():
     lista.recorrer()
     
     print(lista)
-    
+    print ("chau mundo")
 if __name__ =="__main__":
     main()
