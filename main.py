@@ -10,6 +10,11 @@ def main():
     lista.recorrer()
     
     print(lista)
+<<<<<<< HEAD
     print ("chau mundo")
+=======
+    print("hola_mundo")
+
+>>>>>>> e17751a3fa7562a22c4356c773626ef022291c2e
 if __name__ =="__main__":
     main()
